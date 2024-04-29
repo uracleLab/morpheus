@@ -1,0 +1,4 @@
+#Mon Apr 29 13:28:56 KST 2024
+base.0=/Users/parkdoyoung/uracle/morpheus/mcdp-demo/test/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

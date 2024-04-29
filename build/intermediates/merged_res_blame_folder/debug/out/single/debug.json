@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_batchone.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/batchone.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_record_bg_shadow.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_record_bg_shadow.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_zoom_out.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_zoom_out.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_addon_net_progressnetworkdialoglayout.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/addon_net_progressnetworkdialoglayout.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_icon.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_record_mike.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_record_mike.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_activity_media_player.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/activity_media_player.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_bottom_btn_stop_s.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_bottom_btn_stop_s.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_start_bg.jpg.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/start_bg.jpg"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_popup_recoding_bg.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_popup_recoding_bg.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_crop_selector_crop_button.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_crop_selector_crop_button.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_addon_media_audiorecorder.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/addon_media_audiorecorder.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_media_rec_btn_stop.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_media_rec_btn_stop.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_input_pressed.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_input_pressed.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_up_disabled.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_up_disabled.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_slide_left_out.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_slide_left_out.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_record_bg.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_record_bg.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_image_list.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/image_list.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/xml_mcore_provider_paths.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/xml/mcore_provider_paths.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_bottom_btn_list_n.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_bottom_btn_list_n.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_ic_fullscreen_shrink.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/ic_fullscreen_shrink.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_addon_popup_number_picker.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/addon_popup_number_picker.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_bottom_btn_cancel_s.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_bottom_btn_cancel_s.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_listitem.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/listitem.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_zoom_exit.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_zoom_exit.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_down_pressed.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_down_pressed.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_image_list_item.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/image_list_item.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_listitemtitle.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/listitemtitle.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_slide_bottom_in.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_slide_bottom_in.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_gridview_item2.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/gridview_item2.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_record_menu_bg.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_record_menu_bg.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_down_btn.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_down_btn.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_slide_top_in.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_slide_top_in.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_batchtwo.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/batchtwo.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout-xlarge_addon_media_audiorecorder.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout-xlarge/addon_media_audiorecorder.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_input.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_input.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_fade_out.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_fade_out.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_up_selected.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_up_selected.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_crop_ic_rotate_right.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_crop_ic_rotate_right.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_media_rec_btn_list.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_media_rec_btn_list.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_down_normal.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_down_normal.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_zoom_enter.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_zoom_enter.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_none_in.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_none_in.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_crop_camera_crop_width.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_crop_camera_crop_width.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_zoom_in.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_zoom_in.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_input_disabled.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_input_disabled.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_tab_shadow.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/tab_shadow.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_media_rec_btn_record.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_media_rec_btn_record.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_slide_bottom_out.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_slide_bottom_out.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_ic_fullscreen_stretch.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/ic_fullscreen_stretch.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_notice_list_bg.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/notice_list_bg.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_input_normal.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_input_normal.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_image_folder_list.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/image_folder_list.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/xml_network_security_config.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_fade_in.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_fade_in.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_addon_media_crop_cropimage.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/addon_media_crop_cropimage.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_gridview_item.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/gridview_item.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_mapview.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/mapview.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_down_selected.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_down_selected.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_main.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/main.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_slide_top_out.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_slide_top_out.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_crop_btn_crop_operator.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_crop_btn_crop_operator.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_slide_left_in.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_slide_left_in.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_activity_imagelist.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/activity_imagelist.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_record_menu_bg.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_record_menu_bg.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_up_normal.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_up_normal.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-mdpi_icon.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_record_bg.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_record_bg.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_hold.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_hold.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_crop_ic_rotate_left.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_crop_ic_rotate_left.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_bottom_btn_record_n.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_bottom_btn_record_n.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_sample2.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/sample2.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_general_title_btn_before.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/general_title_btn_before.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_addon_popup_date_picker_dialog.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/addon_popup_date_picker_dialog.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_crop_camera_crop_height.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_crop_camera_crop_height.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_ic_cancel.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/ic_cancel.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_sample.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/sample.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-ldpi_icon.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_slide_right_in.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_slide_right_in.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_down_disabled.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_down_disabled.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_up_pressed.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_up_pressed.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_nativelist.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/nativelist.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_record_mike.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_record_mike.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_crop_indicator_autocrop.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_crop_indicator_autocrop.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_bottom_btn_stop_n.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_bottom_btn_stop_n.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_none_out.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_none_out.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_bottom_btn_cancel_n.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_bottom_btn_cancel_n.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_input_selected.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_input_selected.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-xhdpi_addon_media_crop_btn_crop_pressed.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-xhdpi/addon_media_crop_btn_crop_pressed.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_media_rec_btn_cancel.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_media_rec_btn_cancel.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_down_disabled_focused.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_down_disabled_focused.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_up_btn.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_up_btn.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_image_details_activity.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/image_details_activity.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_bottom_btn_list_s.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_bottom_btn_list_s.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_core_progressdialoglayout.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/core_progressdialoglayout.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_addon_popup_date_picker.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/addon_popup_date_picker.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable_addon_popup_picker_up_disabled_focused.9.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable/addon_popup_picker_up_disabled_focused.9.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/layout_activity_imagelist2.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/layout/activity_imagelist2.xml"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/drawable-hdpi_addon_media_bottom_btn_record_s.png.flat",
+        "source": "com.uracle.push.demo-test-7:/drawable-hdpi/addon_media_bottom_btn_record_s.png"
+    },
+    {
+        "merged": "com.uracle.push.demo-merged_res-6:/anim_core_slide_right_out.xml.flat",
+        "source": "com.uracle.push.demo-test-7:/anim/core_slide_right_out.xml"
+    }
+]

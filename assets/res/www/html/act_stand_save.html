@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+<!-- 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" /> -->
+	<meta name="viewport" content="user-scalable=0, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, width=device-width" />
+	<link rel="stylesheet" type="text/css" href="../../css/common.css">
+	<link rel="stylesheet" type="text/css" href="../../css/sm.css">
+	<link rel="stylesheet" type="text/css" href="../../css/swiper.min.css">
+	<link rel="stylesheet" type="text/css"  href="../../css/jquery-ui.css">
+	<link rel="stylesheet" type="text/css"  href="../../css/keyboard.css">
+	<script src="../../js/jquery.min.js"></script>
+	<script src="../../js/jquery/jquery-ui.min.js"></script>
+	<script src="../../js/common.js"></script>
+	<script src="../js/mcore.min.js"></script>
+<!-- 	<script src="../../js/exif.js"></script> -->
+<style>
+	.left_box > .team-auth{
+		display: none;
+	}
+  </style>
+ </head>
+ <body>
+	<div class="wrap">
+		<div class="header">
+			<ul class="logo"></ul>
+			<ul class="gnb" id="topMenu"></ul><!-- gnb end -->
+			<div class="header_right_box">
+			</div><!-- header_right_box end -->
+		</div><!-- header end -->
+		<div class="top_menuInfoBox">
+			SM활동 · 매대사진등록
+		</div>
+		<div class="content none_padding"  >
+			<input type="hidden" id="loadActStandPage" value="true"  >
+			<ul class="left_box">
+				<li class="team-auth 06 07 14"  >
+					<a data-href="./act_cust_view.html">거래처 실적</a>
+				</li>
+				<li class="team-auth 07 14">
+					<a data-href="./act_stock_save.html">재고조사</a>
+				</li>
+				<li class="team-auth 06 07 14">
+					<a class="on">매대사진등록</a>
+				</li>
+				<li class="team-auth 06 07 14">
+					<a data-href="./act_buyer_view.html">바이어상담</a>
+				</li>
+				<li class="team-auth 07 14">
+					<a data-href="./act_daily_save.html">업무일지</a>
+				</li>
+				<li class="team-auth 06 ">
+					<a data-href="./act_daily_tm_save.html">팀장업무일지</a>
+				</li>
+				<li class="team-auth 06 07 14" id="combang_reg">
+					<a data-href="./act_stand_combang_save.html">컴방등록</a>
+				</li>
+			</ul><!-- left_box end -->
+			<div class="right_box">
+				<div class="input_box">
+					<p>
+						<label>일자</label>
+						<input type="text" id="actCdate" value="" readonly="readonly" class="input_box disable">
+					</p>
+					<p>
+						<label>거래처명</label>
+						<input type="text" id="actCustName" value="" readonly="readonly" class="input_box disable">
+					</p>
+					<p class="btn_area"><button class="btn_save" id="imgActStandSaveBtn" >저장</button></p>
+				</div>
+				<ul class="stnad_box" id="standImgForm" >
+					<li>
+						<h4>본매대</h4>
+						<div class="img_scroll_wrap">
+							<ul class="stand_list"  data-picgub="01" >
+							</ul>
+						</div>
+						<p class="btn_li">
+							<button class="btn_register stand_camera_btn" data-picgub="01" >사진</button>
+						</p>
+						<input  type="text" class="sellingStory" value="" data-picgub="01">
+						
+					</li>
+					<li>
+						<h4>POS매대</h4>
+						<div class="img_scroll_wrap">
+							<ul class="stand_list"  data-picgub="02" >
+							</ul>
+						</div>
+						<p class="btn_li">
+							<button class="btn_register stand_camera_btn" data-picgub="02" >사진</button>
+						</p>
+						<input  type="text" class="sellingStory" value="" data-picgub="02">
+					</li>
+					<li>
+						<h4>별도매대</h4>
+						<div class="img_scroll_wrap">
+							<ul class="stand_list"  data-picgub="03"  >
+							</ul>
+						</div>
+						<p class="btn_li">
+							<button class="btn_register stand_camera_btn" data-picgub="03" >사진</button>
+						</p>
+						<input type="text" class="sellingStory" value="" data-picgub="03">
+					</li>
+					<li>
+						<h4>행사매대</h4>
+						<div class="img_scroll_wrap">
+							<ul class="stand_list"  data-picgub="04" >
+							</ul>
+						</div>
+						<p class="btn_li">
+							<button class="btn_register stand_camera_btn" data-picgub="04" >사진</button>
+						</p>
+						<input type="text" class="sellingStory" value="" data-picgub="04">
+					</li>
+					<li>
+						<h4>기타매대</h4>
+						<div class="img_scroll_wrap">
+							<ul class="stand_list"  data-picgub="05" >
+							</ul>
+						</div>
+						<p class="btn_li">
+							<button class="btn_register stand_camera_btn" data-picgub="05" >사진</button>
+						</p>
+						<input  type="text" class="sellingStory" value="" data-picgub="05">
+					</li>
+				</ul>
+			</div><!-- right_box end -->
+		</div><!-- content end -->
+	</div><!-- wrap end -->
+	<div class="slide-from"  id="slideForm">
+		<div class="swiper-container">
+		    <div class="swiper-wrapper" id="imgList">
+		    </div>
+		    <!-- Add Pagination -->
+		    <div class="swiper-pagination"></div>
+		    <!-- Add Arrows -->
+		    <div class="swiper-button-next"></div>
+		    <div class="swiper-button-prev"></div>
+		  </div>
+		   <p class="append-buttons">
+		       <a href="#" class="prepend-2-slides" id="deleteImg" >삭제</a>
+		       <a href="#" class="prepend-2-slides" id="closeSlide" >닫기</a>
+		  </p>
+	</div>
+ </body>
+ <script src="../../js/swiper.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    
+  </script>
+ <script type="text/javascript" src="./act_stand_save.js"></script>
+
+
+<script src="node_modules/eruda/eruda.js"></script>
+</html>

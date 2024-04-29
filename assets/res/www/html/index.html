@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ko">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+	<title>Hello! Mobile!</title>
+</head>
+
+<body>
+	<h1>Hello! Mobile!</h1>
+	<button id="native">test</button>
+	<div>
+		<video autoplay></video>
+	</div>
+	<button id="window">window open</button>
+</body>
+
+<script type="text/javascript" src="../js/mcore.min.js"></script>
+<script type="text/javascript">
+
+navigator.mediaDevices
+    .getUserMedia({ video: true})
+    .then((localMediaStream) => {
+      const video = document.querySelector("video");
+      video.srcObject = localMediaStream;
+    })
+    .catch((error) => {
+      console.log("Rejected!", error);
+    });
+
+</script>
+
+</html>
